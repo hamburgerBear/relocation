@@ -1,2 +1,4 @@
-# Relocation
-包含全局重定位和局部重定位
+# SLAM_2D
+包含一些SLAM_2D相关的算法包
+ * relocation 重定位
+ * calibration 标定
