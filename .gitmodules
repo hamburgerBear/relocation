@@ -1,0 +1,3 @@
+[submodule "src/cartographer"]
+	path = src/cartographer
+	url = git@github.com:cartographer-project/cartographer.git
